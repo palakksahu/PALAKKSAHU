@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Palak Sahu!🍓🎀</h1>
-<h3 align="center">currently a student pursuing her bachelor's in computer science👾🖥 and engineering</h3>
+<h3 align="center">Currently a student pursuing her bachelor's in computer science and engineering 👾🖥</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
